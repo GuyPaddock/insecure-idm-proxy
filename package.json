@@ -1,0 +1,12 @@
+{
+  "name": "insecure-idm-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy that exposes OpenIDM endpoints insecurely.",
+  "main": "index.js",
+  "author": "Guy Elsmore-Paddock <guy@rosieapp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "package": "^1.0.1"
+  }
+}
